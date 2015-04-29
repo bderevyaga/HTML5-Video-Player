@@ -1,14 +1,14 @@
 # HTML5-Video
 
-This video player made in HTML5. It has the following features:
+Розроблено веб-плейер на HTML5 що має такі функціональні можливості:
 
-  - Change Volume
-  - Full screen 
+  - Змінення гучності
+  - Повноекранний режим
   - Buffering
-  - Rewinding
-  - Change video
-  - Counting the hours
-  - Preview video
+  - Прокручування відео
+  - Зміна відео
+  - Підрахунок часу перегляду і загального часу
+  - Попередній перегляд відео
 
 ###Link
  - E-MAIL - bogdan.derevyaga@gmail.com
