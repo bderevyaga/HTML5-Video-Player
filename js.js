@@ -270,9 +270,9 @@ play.style.left = (video.clientWidth / 2) - (play.clientWidth / 2)  + 'px';
 play.style.top = (video.clientHeight / 2) - (play.clientHeight / 2)  + 'px';	
 playbutton.addEventListener('click', playpause, false);
 seeker.style.width = controls.clientWidth - 275 + 'px';
-video.src = 'trailer.mp4';
+video.src = './video/trailer.mp4';
 video.load();
-var srcBuff = '<video id="tif" src="' + 'trailer.mp4' + '" width="100%" height="100%" preload></video>';
+var srcBuff = '<video id="tif" src="' + './video/trailer.mp4' + '" width="100%" height="100%" preload></video>';
 tooltip.innerHTML = srcBuff;    
 
 function playPause(url)

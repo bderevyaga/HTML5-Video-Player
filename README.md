@@ -1,14 +1,4 @@
 # HTML5-Video
 
-Розроблено веб-плейер на HTML5 що має такі функціональні можливості:
-
-  - Змінення гучності
-  - Повноекранний режим
-  - Buffering
-  - Прокручування відео
-  - Зміна відео
-  - Підрахунок часу перегляду і загального часу
-  - Попередній перегляд відео
-
-###Link
- - E-MAIL - bogdan.derevyaga@gmail.com
+email: bogdan.derevyaga@gmail.com
+facebook: facebook.com/bderevyaga
